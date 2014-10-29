@@ -1,0 +1,1 @@
+javac -d /Users/luqi/GitHub/Scala/scalakoansexercises/target/scala-2.10/classes -classpath /Users/luqi/GitHub/Scala/scalakoansexercises/target/scala-2.10/classes:/Users/luqi/.sbt/boot/scala-2.10.4/lib/scala-library.jar:/Users/luqi/.sbt/boot/scala-2.10.4/lib/scala-library.jar /Users/luqi/GitHub/Scala/scalakoansexercises/src/main/java/org/functionalkoans/forscala/SomeJavaClass.java
